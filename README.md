@@ -1,16 +1,16 @@
-### Oi!!! Eu sou o Pedro Veloso
+### Hi!!! I'm Pedro Veloso
 
 #
  
-Sobre Mim
+About Me
 
-- 🏫 Estudante da ETEC Zona Leste
-- 🌱 Atualmente estou cursando Desenvolvimento de Sistemas
-- 👨🏽‍💻 Futuro Desenvolvedor Fullstack
+🏫 Student at ETEC Zona Leste
+🌱 Currently studying Systems Development
+👨🏽‍💻 Future Fullstack Developer
 
 #
 
-Habilidades
+Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Veloso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,10 +25,11 @@ Habilidades
   
 #
 
-Entre em contato
+Contact Me
  
 <div> 
-  <a href="https://www.linkedin.com/in/veloso-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/veloso-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:velosompedro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
 
 #
