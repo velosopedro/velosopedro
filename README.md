@@ -4,9 +4,11 @@
  
 About Me
 
-🏫 Student at ETEC Zona Leste
-🌱 Currently studying Systems Development
-👨🏽‍💻 Future Fullstack Developer
+- 🏫 Student at ETEC Zona Leste
+  
+- 🌱 Currently studying Systems Development
+  
+- 👨🏽‍💻 Future Fullstack Developer
 
 #
 
@@ -19,8 +21,7 @@ Skills
   <img align="center" alt="Veloso-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Veloso-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Veloso-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" />
-  <img align="center" alt="Veloso-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
-          
+  <img align="center" alt="Veloso-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">       
 </div>
   
 #
