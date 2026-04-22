@@ -1,4 +1,4 @@
-### Hi!!! I'm Pedro Veloso 🎮
+### 🎮 Pedro Veloso | Game Developer & Systems Analyst in Training
 
 # 
 
@@ -6,7 +6,7 @@ Student at ETEC Zona Leste | Systems Development | Gamedev Aspirant
 
 #
 
-About Me
+# About Me
 
 - 🎓 3rd year student at **ETEC Zona Leste**.
 - 🕹️ Currently focusing on **Game Development** with Godot Engine.
@@ -14,22 +14,22 @@ About Me
 
 #
 
-Skills
+# Skills
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Veloso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Veloso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Veloso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Veloso-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Veloso-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Veloso-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" />
-  <img align="center" alt="Veloso-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
-  <img align="center" alt="Veloso-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+  <img alt="Veloso-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Veloso-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Veloso-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Veloso-PHP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img alt="Veloso-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img alt="Veloso-Kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" />
+  <img alt="Veloso-SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
+  <img alt="Veloso-Godot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
 </div>
   
 #
 
-Contact Me
+# Contact Me
  
 <div> 
   <a href="https://www.linkedin.com/in/veloso-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
