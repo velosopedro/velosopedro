@@ -2,7 +2,7 @@
 
 # 
 
-Student at ETEC Zona Leste | Systems Development | Gamedev Aspirant
+🏫 Student at ETEC Zona Leste | Systems Development | Gamedev Aspirant
 
 #
 
